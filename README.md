@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![](https://github.com/lacie-life/github-stats/blob/master/generated/languages.svg)
+
 <!--
 **lacie-life/lacie-life** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![](https://github.com/lacie-life/github-stats/blob/master/generated/languages.svg)
 
 Here are some ideas to get you started:
 
