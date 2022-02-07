@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/lacie-life/github-stats/blob/master/generated/languages.svg){ width=40% } [![Lacie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacie-life)](https://github.com/anuraghazra/github-readme-stats){ width=60% }
+![](https://github.com/lacie-life/github-stats/blob/master/generated/languages.svg)   [![Lacie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacie-life)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
