@@ -3,7 +3,7 @@
 <!-- ![](https://github.com/lacie-life/github-stats/blob/master/generated/languages.svg)  -->
 
 
-[![Lacie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacie-life)](https://github.com/anuraghazra/github-readme-stats##gh-dark-mode-only)  
+[![Lacie's GitHub stats](https://github-readme-stats.vercel.app/api?username=lacie-life)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)  
 
 
 <!--
